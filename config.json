@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://www.korea.ac.kr/mbshome/mbs/university/images/img/img_1_1_5_1_2__10.gif",
+    "link": "http://dh.aks.ac.kr/~jisun/edu/index.php/IntroductionToDigitalHumanities23-2",
+    "text": "김지선"
+  },
+  "text": {
+    "more": " 서울 고등학교 교가에 등장한 산과 고등학교의 교목/교화 분석해 보았습니다^_^",
+    "intro": " 서울 고등학교 교가에 등장한 산과 고등학교의 교목/교화 분석해 보았습니다^_^",
+    "title": " 서울 고등학교 교가에 등장한 산과 고등학교의 교목/교화 분석"
+  },
+  "legend": {
+    "edgeLabel": "relation",
+    "colorLabel": "class",
+    "nodeLabel": "서울 고등학교 교가/교화/교목 정보"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
